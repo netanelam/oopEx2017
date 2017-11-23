@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <name>location</name>
+        <Style id="red">
+            <IconStyle>
+                <scale>1.0</scale>
+                <heading>0.0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    <refreshInterval>0.0</refreshInterval>
+                    <viewRefreshTime>0.0</viewRefreshTime>
+                    <viewBoundScale>0.0</viewBoundScale>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Placemark>
+            <name>Partner IL</name>
+            <description>42501_22213_8632321</description>
+            <Point>
+                <coordinates>34.97038655,32.10606756</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Partner IL</name>
+            <description>42501_22213_8632322</description>
+            <Point>
+                <coordinates>34.97018719,32.10585581</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Partner IL</name>
+            <description>42501_22213_8632321</description>
+            <Point>
+                <coordinates>34.97002002,32.10604059</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>WA</name>
+            <description>00:1b:9e:1c:db:10</description>
+            <Point>
+                <coordinates>34.97015585,32.10585979</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Bezeq-N_200418</name>
+            <description>c8:d3:a3:20:04:19</description>
+            <Point>
+                <coordinates>34.97027543,32.10595163</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>BezeqNGN_72131</name>
+            <description>4c:60:de:43:ef:26</description>
+            <Point>
+                <coordinates>34.97030185,32.10597441</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>cloudyn-mktg-sales</name>
+            <description>20:2a:a8:b1:9f:b7</description>
+            <Point>
+                <coordinates>34.97020232,32.10593104</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>CL-WH</name>
+            <description>10:62:eb:a4:81:e0</description>
+            <Point>
+                <coordinates>34.97013931,32.10588452</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>HP-Print-A3-Officejet Pro 6830</name>
+            <description>58:20:b1:d0:1f:a3</description>
+            <Point>
+                <coordinates>34.97027641,32.10595286</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>BezeqFree</name>
+            <description>06:ae:db:c9:62:ed</description>
+            <Point>
+                <coordinates>34.97038655,32.10606756</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
